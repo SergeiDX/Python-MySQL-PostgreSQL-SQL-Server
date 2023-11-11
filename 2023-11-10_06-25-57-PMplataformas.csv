@@ -1,0 +1,1001 @@
+id_plataforma,nombre_plataforma,fabricante,id_videojuego,id_usuario
+2,GamePop 14,Vizio,1,1
+3,Playdate,BitTorrent,2,2
+4,Nvidia Shield,HTC,3,3
+5,Retronauts,Motorola,4,4
+6,GamePop 6,YouTube TV,5,5
+7,GamePop 2,Apple TV+,6,6
+8,GamePop Micro,Sling TV,7,7
+9,Apple Arcade,Nvidia,8,8
+10,Virtual Boy,AMD,9,9
+11,Jaguar,Origin,10,10
+12,GamePop 9,Nokia,11,11
+13,GamePop 14,ESET,12,12
+14,MSX,Twitch,13,13
+15,GamePop 9,Garmin,14,14
+16,OUYA,Sony Ericsson,15,15
+17,Evercade,Bitdefender,16,16
+18,GameStick,qBittorrent,17,17
+19,GamePop 8,Nokia,18,18
+20,Tapwave Zodiac,Acer,19,19
+21,GamePop 17,SiriusXM,20,20
+22,GamePop 18,Webroot,21,21
+23,Nintendo 64,Samsung,22,22
+24,Game Boy,Uplay,23,23
+25,GamePop 12,Sony Ericsson,24,24
+26,Amiga,SanDisk,25,25
+27,Nintendo DS,Asus,26,26
+28,Game Boy,GoPro,27,27
+29,Game Boy,Steam,28,28
+30,Philips CD-i,Seagate,29,29
+31,ZX Spectrum,Seagate,30,30
+32,Odyssey,Trend Micro,31,31
+33,Game Boy,Vuze,32,32
+34,Atari 7800,Deluge,33,33
+35,GamePop 11,Huawei,34,34
+36,GamePop 15,Microsoft,35,35
+37,Google Stadia,BitTorrent,36,36
+38,GamePop 6,Asus,37,37
+39,Amiga,Sony,38,38
+40,GamePop X,Adobe,39,39
+41,Sega Master System,YouTube TV,40,40
+42,GamePop Mini,Tidal,41,41
+43,GamePop 11,SiriusXM,42,42
+44,Game Boy Color,Corel,43,43
+45,Game Boy Color,SiriusXM,44,44
+46,GamePop 19,VLC,45,45
+47,GamePop 18,Razer,46,46
+48,Raspberry Pi,Garmin,47,47
+49,Gizmondo,Malwarebytes,48,48
+50,PlayStation,PlayStation Vue,49,49
+51,PlayStation 2,Netflix,50,50
+52,N-Gage,FuboTV,51,51
+53,Game Boy Color,F-Secure,52,52
+54,Dreamcast,GoPro,53,53
+55,Vectrex,Western Digital,54,54
+56,GamePop 20,Webroot,55,55
+57,Sega Saturn,SanDisk,56,56
+58,Atari 2600,Apple TV+,57,57
+59,Nintendo Switch,Xiaomi,58,58
+60,GameStick,Corsair,59,59
+61,Amiga,Trend Micro,60,60
+62,PlayStation 5,Western Digital,61,61
+63,PC,Corel,62,62
+64,Analogue Pocket,Deluge,63,63
+65,Nintendo 64,Malwarebytes,64,64
+66,Game Boy Color,Amazon Prime Video,65,65
+67,Vectrex,uTorrent,66,66
+68,Dreamcast,Sling TV,67,67
+69,GameStick,Tidal,68,68
+70,Evercade,Microsoft,69,69
+71,GameStick,HBO Max,70,70
+72,Evercade,Google,71,71
+73,Game Boy Color,Hulu,72,72
+74,Gizmondo,BitTorrent,73,73
+75,PC,Apple Music,74,74
+76,Xbox One,Xiaomi,75,75
+77,GamePop 18,AMD,76,76
+78,Analogue Pocket,Trend Micro,77,77
+79,Neo Geo,Xiaomi,78,78
+80,GamePop Micro,Canon,79,79
+81,GamePop Micro,HTC,80,80
+82,Gizmondo,Amazon Music,81,81
+83,GamePop X,Hulu Live TV,82,82
+84,Polymega,Bitdefender,83,83
+85,GamePop 14,OnePlus,84,84
+86,Magnavox Odyssey 2,Acer,85,85
+87,ZX Spectrum,Amazon Music,86,86
+88,GamePop Micro,Philips,87,87
+89,Tapwave Zodiac,ESET,88,88
+90,GamePop 15,G Data,89,89
+91,RetroN 5,Uplay,90,90
+92,Vectrex,BlackBerry,91,91
+93,OUYA,Epic Games,92,92
+94,GamePop 9,Kaspersky,93,93
+95,GamePop 4,Sony Ericsson,94,94
+96,GamePop 4,Bitdefender,95,95
+97,Odyssey,Sling TV,96,96
+98,Fairchild Channel F,Shazam,97,97
+99,Playdate,Malwarebytes,98,98
+100,RetroN 5,Fitbit,99,99
+101,GameCube,Pandora,100,100
+102,Atari 7800,Sony,101,101
+103,Nintendo Switch,Shazam,102,102
+104,Nvidia Shield,Kaspersky,103,103
+105,PlayStation 4,Shazam,104,104
+106,Tapwave Zodiac,Plex,105,105
+107,GamePop 9,Intel,106,106
+108,Jaguar,BlackBerry,107,107
+109,Polymega,Google Play Music,108,108
+110,Atari 2600,YouTube TV,109,109
+111,Odyssey,Amazon Music,110,110
+112,N-Gage,Intel,111,111
+113,GamePop,Nokia,112,112
+114,3DO Interactive Multiplayer,FuboTV,113,113
+115,Fairchild Channel F,Adobe,114,114
+116,Nintendo 3DS,Transmission,115,115
+117,Sega Genesis,SoundCloud,116,116
+118,Sega Master System,Avast,117,117
+119,Evercade,FuboTV,118,118
+120,Jaguar,Norton,119,119
+121,GamePop 20,iHeartRadio,120,120
+122,GamePop 15,Seagate,121,121
+123,Xbox Series X,Amazon Prime Video,122,122
+124,OUYA,Western Digital,123,123
+125,PlayStation 4,Tidal,124,124
+126,ColecoVision,Kaspersky,125,125
+127,Sega Master System,Canon,126,126
+128,TurboGrafx-16,Adobe,127,127
+129,3DO Interactive Multiplayer,Nvidia,128,128
+130,Nintendo Switch,Toshiba,129,129
+131,Sega Saturn,Transmission,130,130
+132,GamePop 15,Sharp,131,131
+133,WonderSwan,HBO Max,132,132
+134,Philips CD-i,Twitch,133,133
+135,Nintendo 3DS,Seagate,134,134
+136,GamePop Micro,PlayStation Vue,135,135
+137,Xbox Series X,GoPro,136,136
+138,GameCube,YouTube TV,137,137
+139,ZX Spectrum,Sony,138,138
+140,GamePop 8,Hulu Live TV,139,139
+141,Super Nintendo Entertainment System,Microsoft,140,140
+142,N-Gage,Webroot,141,141
+143,Apple Arcade,Toshiba,142,142
+144,Wii U,Canon,143,143
+145,Apple Arcade,Vuze,144,144
+146,PC,Lenovo,145,145
+147,Super Nintendo Entertainment System,Lenovo,146,146
+148,Playdate,Philips,147,147
+149,Atari 7800,LG,148,148
+150,Nintendo Switch,Western Digital,149,149
+151,GamePop 18,Philips,150,150
+152,GamePop 8,Panda,151,151
+153,Philips CD-i,Deezer,152,152
+154,GamePop 6,qBittorrent,153,153
+155,GamePop Micro,PlayStation Vue,154,154
+156,GamePop 3,Microsoft,155,155
+157,GamePop,qBittorrent,156,156
+158,Atari 7800,Bitdefender,157,157
+159,Jaguar,SanDisk,158,158
+160,GamePop 13,Philips,159,159
+161,Philips CD-i,Avast,160,160
+162,GamePop 20,Google,161,161
+163,GamePop 13,Bitdefender,162,162
+164,GamePop Micro,Nintendo,163,163
+165,Virtual Boy,Nvidia,164,164
+166,Nvidia Shield,G Data,165,165
+167,Sega Game Gear,Vuze,166,166
+168,Odyssey,Seagate,167,167
+169,PlayStation 4,Sharp,168,168
+170,GamePop,Vuze,169,169
+171,ZX Spectrum,Fitbit,170,170
+172,GamePop 16,Norton,171,171
+173,ZX Spectrum,Transmission,172,172
+174,PlayStation 2,Logitech,173,173
+175,Neo Geo,Panasonic,174,174
+176,Atari 2600,Deluge,175,175
+177,Playdate,Disney+,176,176
+178,Nvidia Shield,Lenovo,177,177
+179,Nvidia Shield,Fitbit,178,178
+180,GameStick,qBittorrent,179,179
+181,GamePop 6,Nvidia,180,180
+182,PlayStation 5,Adobe,181,181
+183,Nintendo DS,ESPN+,182,182
+184,GamePop 2,YouTube TV,183,183
+185,GamePop 9,Kodi,184,184
+186,GamePop 17,Philips,185,185
+187,Intellivision,SoundCloud,186,186
+188,Sega Genesis,Motorola,187,187
+189,GamePop 2,Samsung,188,188
+190,Intellivision,Sharp,189,189
+191,Commodore 64,Apple TV+,190,190
+192,MSX,Asus,191,191
+193,Super Nintendo Entertainment System,Microsoft,192,192
+194,GamePop X,Vizio,193,193
+195,GamePop 7,BitTorrent,194,194
+196,MSX,LG,195,195
+197,GamePop 8,Apple,196,196
+198,ZX Spectrum,Plex,197,197
+199,Dreamcast,VLC,198,198
+200,GamePop 17,Kaspersky,199,199
+201,Xbox,Deezer,200,200
+202,PlayStation,Sony Ericsson,201,201
+203,Atari 2600,Trend Micro,202,202
+204,GameStick,Asus,203,203
+205,Philips CD-i,Avast,204,204
+206,PC,Google Play Music,205,205
+207,GamePop 8,Transmission,206,206
+208,GamePop 19,G Data,207,207
+209,MSX,Spotify,208,208
+210,Intellivision,Google,209,209
+211,Commodore 64,Epic Games,210,210
+212,GamePop Micro,Kingston,211,211
+213,Game Boy Color,HP,212,212
+214,Raspberry Pi,Garmin,213,213
+215,GamePop X,Origin,214,214
+216,GamePop X,iHeartRadio,215,215
+217,GamePop 3,Google Play Music,216,216
+218,Raspberry Pi,SiriusXM,217,217
+219,Xbox,Disney+,218,218
+220,N-Gage,Bitdefender,219,219
+221,Atari 2600,Google Play Music,220,220
+222,Xbox One,Corsair,221,221
+223,GamePop 9,Transmission,222,222
+224,GamePop Mini,Amazon,223,223
+225,N-Gage,Canon,224,224
+226,Sega Game Gear,Xiaomi,225,225
+227,Intellivision,Vuze,226,226
+228,GamePop S,Dell,227,227
+229,GamePop 2,ESET,228,228
+230,Jaguar,ESET,229,229
+231,Odyssey,FuboTV,230,230
+232,Magnavox Odyssey 2,Western Digital,231,231
+233,GamePop 7,Deluge,232,232
+234,GamePop 12,Sling TV,233,233
+235,Game Boy Advance,LG,234,234
+236,Apple Arcade,ESET,235,235
+237,GamePop 9,HTC,236,236
+238,Retronauts,SiriusXM,237,237
+239,Odyssey,AMD,238,238
+240,GamePop S,Toshiba,239,239
+241,Analogue Pocket,Steam,240,240
+242,PlayStation 4,Western Digital,241,241
+243,Ouya,BlackBerry,242,242
+244,MiSTer,Kaspersky,243,243
+245,Playdate,Xiaomi,244,244
+246,Nintendo DS,Huawei,245,245
+247,N-Gage,Garmin,246,246
+248,NES,Popcorn Time,247,247
+249,GamePop 15,Deezer,248,248
+250,Virtual Boy,Epic Games,249,249
+251,GamePop Mini,Apple Music,250,250
+252,GamePop 8,Canon,251,251
+253,GamePop 13,Nokia,252,252
+254,Ouya,Uplay,253,253
+255,Sega Game Gear,Logitech,254,254
+256,Magnavox Odyssey 2,Vuze,255,255
+257,Sega Genesis,VLC,256,256
+386,GamePop X,SiriusXM,385,385
+258,Sega Master System,qBittorrent,257,257
+259,Odyssey,IBM,258,258
+260,RetroN 5,Motorola,259,259
+261,Neo Geo,VLC,260,260
+262,Evercade,Nintendo,261,261
+263,Commodore 64,BlackBerry,262,262
+264,Apple Arcade,HP,263,263
+265,Game Boy,Tidal,264,264
+266,Apple Arcade,Norton,265,265
+267,Analogue Pocket,Webroot,266,266
+268,MiSTer,Spotify,267,267
+269,3DO Interactive Multiplayer,Steam,268,268
+270,WonderSwan,FuboTV,269,269
+271,GamePop 10,Microsoft,270,270
+272,Vectrex,Symantec,271,271
+273,GamePop,uTorrent,272,272
+274,Atari 2600,Garmin,273,273
+275,Dreamcast,Pandora,274,274
+276,ColecoVision,BlackBerry,275,275
+277,Game Boy Color,IBM,276,276
+278,GamePop 14,Nvidia,277,277
+279,Retronauts,Panda,278,278
+280,PlayStation 2,qBittorrent,279,279
+281,GamePop 5,BitTorrent,280,280
+282,GamePop 16,Google,281,281
+283,Raspberry Pi,Logitech,282,282
+284,RetroN 5,Qualcomm,283,283
+285,Sega Saturn,Epic Games,284,284
+286,3DO Interactive Multiplayer,Avira,285,285
+287,Sega Genesis,DirecTV Now,286,286
+288,GamePop 4,Amazon Music,287,287
+289,GameCube,Kodi,288,288
+290,Vectrex,Apple Music,289,289
+291,3DO Interactive Multiplayer,Dell,290,290
+292,GamePop,Amazon Prime Video,291,291
+293,Playdate,Twitch,292,292
+294,Atari 7800,Trend Micro,293,293
+295,GamePop 5,DirecTV Now,294,294
+296,Xbox Series X,FuboTV,295,295
+297,Retronauts,Bitdefender,296,296
+298,PlayStation 2,Epic Games,297,297
+299,Intellivision,Vuze,298,298
+300,GamePop 16,Razer,299,299
+301,PlayStation Vita,SiriusXM,300,300
+302,GamePop 4,OnePlus,301,301
+303,PlayStation 4,Xiaomi,302,302
+304,Playdate,Apple TV+,303,303
+305,GamePop 18,Autodesk,304,304
+306,GamePop,Fitbit,305,305
+307,Retronauts,Xiaomi,306,306
+308,GamePop 9,VLC,307,307
+309,Sega Genesis,Xiaomi,308,308
+310,Sega Saturn,qBittorrent,309,309
+311,GamePop 9,Autodesk,310,310
+312,Intellivision,SiriusXM,311,311
+313,Game Boy Advance,Origin,312,312
+314,Magnavox Odyssey 2,Nintendo,313,313
+315,Neo Geo,Autodesk,314,314
+316,ZX Spectrum,Transmission,315,315
+317,N-Gage,Razer,316,316
+318,GamePop 4,Amazon,317,317
+319,Magnavox Odyssey 2,BlackBerry,318,318
+320,GamePop 14,Kingston,319,319
+321,RetroN 5,Kingston,320,320
+322,Nintendo Switch,Sling TV,321,321
+323,GamePop 5,Deezer,322,322
+324,PC,FrostWire,323,323
+325,Apple Arcade,Sling TV,324,324
+326,Nvidia Shield,HP,325,325
+327,ZX Spectrum,Spotify,326,326
+328,Wii U,Corel,327,327
+329,Dreamcast,Asus,328,328
+330,GamePop 11,Sony Ericsson,329,329
+331,GamePop X,Apple TV+,330,330
+332,Nintendo 64,BitTorrent,331,331
+333,GamePop 12,HBO Max,332,332
+334,Steam Machine,VLC,333,333
+335,GamePop S,Canon,334,334
+336,NES,Autodesk,335,335
+337,GamePop Mini,Motorola,336,336
+338,Magnavox Odyssey 2,SanDisk,337,337
+339,Wii U,Trend Micro,338,338
+340,GamePop 17,ESET,339,339
+341,Nintendo 64,Transmission,340,340
+342,MSX,ESPN+,341,341
+343,PlayStation 2,Western Digital,342,342
+344,Philips CD-i,FuboTV,343,343
+345,GamePop Mini,HTC,344,344
+346,Raspberry Pi,Bitdefender,345,345
+347,Sega Game Gear,PlayStation Vue,346,346
+348,GamePop 4,GoPro,347,347
+349,GameStick,Deezer,348,348
+350,Nintendo Switch,DirecTV Now,349,349
+351,Evercade,Plex,350,350
+352,Polymega,Nvidia,351,351
+353,Atari 7800,Western Digital,352,352
+354,GamePop,Google Play Music,353,353
+355,Atari 2600,YouTube TV,354,354
+356,GameCube,Amazon Prime Video,355,355
+357,Nintendo Switch,Norton,356,356
+358,GamePop 6,Hulu Live TV,357,357
+359,Magnavox Odyssey 2,Symantec,358,358
+360,Jaguar,SiriusXM,359,359
+361,Playdate,Apple TV+,360,360
+362,GamePop 4,YouTube TV,361,361
+363,PC,Razer,362,362
+364,GamePop 19,Asus,363,363
+365,ColecoVision,Xiaomi,364,364
+366,Commodore 64,Deluge,365,365
+367,GamePop,Origin,366,366
+368,Evercade,Webroot,367,367
+369,Apple Arcade,Corel,368,368
+370,Tapwave Zodiac,Spotify,369,369
+371,Game Boy Advance,Trend Micro,370,370
+372,GamePop,Toshiba,371,371
+373,Gizmondo,Seagate,372,372
+374,Neo Geo,Transmission,373,373
+375,MiSTer,Webroot,374,374
+376,MSX,Netflix,375,375
+377,Game Boy Advance,Sling TV,376,376
+378,Nintendo 3DS,PlayStation Vue,377,377
+379,Virtual Boy,SanDisk,378,378
+380,PlayStation Vita,Nvidia,379,379
+381,Google Stadia,Corel,380,380
+382,GamePop 19,Canon,381,381
+383,MSX,Disney+,382,382
+384,Odyssey,Autodesk,383,383
+385,TurboGrafx-16,Sony,384,384
+387,PC,HBO Max,386,386
+388,Tapwave Zodiac,Deezer,387,387
+389,Wii U,qBittorrent,388,388
+390,3DO Interactive Multiplayer,Symantec,389,389
+391,PlayStation,GoPro,390,390
+392,GamePop 7,Kodi,391,391
+393,Xbox,Corsair,392,392
+394,Odyssey,Garmin,393,393
+395,Evercade,Panasonic,394,394
+396,Vectrex,Acer,395,395
+397,PlayStation 2,Canon,396,396
+398,GameCube,Deluge,397,397
+399,Commodore 64,ESET,398,398
+400,GamePop 6,OnePlus,399,399
+401,Atari 7800,SoundCloud,400,400
+402,Nintendo 3DS,Steam,401,401
+403,Tapwave Zodiac,VLC,402,402
+404,GamePop 13,BlackBerry,403,403
+405,Ouya,Twitch,404,404
+406,Playdate,ESPN+,405,405
+407,Retronauts,Netflix,406,406
+408,Steam Machine,Garmin,407,407
+409,GamePop 15,Apple,408,408
+410,Retronauts,IBM,409,409
+411,Nintendo 64,Google,410,410
+412,GamePop 16,iHeartRadio,411,411
+413,PlayStation 2,Symantec,412,412
+414,Nintendo DS,ESET,413,413
+415,Xbox,Avira,414,414
+416,Fairchild Channel F,Steam,415,415
+417,GamePop 12,Asus,416,416
+418,PC,AMD,417,417
+419,GamePop 8,Bitdefender,418,418
+420,Xbox One,BlackBerry,419,419
+421,GamePop 10,Amazon Music,420,420
+422,Amiga,Kodi,421,421
+423,Atari 2600,Amazon Music,422,422
+424,Atari 7800,Acer,423,423
+425,Google Stadia,HP,424,424
+426,Ouya,Xiaomi,425,425
+427,Amazon Luna,Sharp,426,426
+428,3DO Interactive Multiplayer,Google Play Music,427,427
+429,N-Gage,Netflix,428,428
+430,RetroN 5,Autodesk,429,429
+431,Virtual Boy,Corsair,430,430
+432,Nintendo Switch,Corel,431,431
+433,GamePop X,Avira,432,432
+434,Ouya,Deluge,433,433
+435,Jaguar,Bitdefender,434,434
+436,Retronauts,Google,435,435
+437,GamePop 11,HP,436,436
+438,WonderSwan,Tidal,437,437
+439,GamePop 11,Corsair,438,438
+440,3DO Interactive Multiplayer,Razer,439,439
+441,GamePop 2,FrostWire,440,440
+442,Analogue Pocket,Kingston,441,441
+443,PlayStation 2,Hulu Live TV,442,442
+444,GamePop 15,Vuze,443,443
+445,3DO Interactive Multiplayer,McAfee,444,444
+446,Evercade,Sony Ericsson,445,445
+447,MSX,Microsoft,446,446
+448,Nvidia Shield,Google,447,447
+449,Atari 7800,FuboTV,448,448
+450,GamePop 14,Trend Micro,449,449
+451,GamePop 11,Sling TV,450,450
+452,GamePop 7,YouTube TV,451,451
+453,PlayStation 4,uTorrent,452,452
+454,ZX Spectrum,Disney+,453,453
+455,Vectrex,Hulu Live TV,454,454
+456,Tapwave Zodiac,Uplay,455,455
+457,GamePop 3,Toshiba,456,456
+458,GamePop 17,Popcorn Time,457,457
+459,Evercade,Malwarebytes,458,458
+460,GamePop 16,Plex,459,459
+461,N-Gage,Shazam,460,460
+462,NES,Apple Music,461,461
+463,Sega Game Gear,Nokia,462,462
+464,Amazon Luna,DirecTV Now,463,463
+465,Wii U,Motorola,464,464
+466,GamePop 5,Corel,465,465
+467,Google Stadia,OnePlus,466,466
+468,Vectrex,Autodesk,467,467
+469,GameStick,Symantec,468,468
+470,Raspberry Pi,Avast,469,469
+471,Nintendo Switch,Hulu Live TV,470,470
+472,Sega Saturn,Asus,471,471
+473,Google Stadia,DirecTV Now,472,472
+474,GamePop 19,Adobe,473,473
+475,ZX Spectrum,Microsoft,474,474
+476,Steam Machine,Apple TV+,475,475
+477,GamePop 11,Hulu,476,476
+478,Tapwave Zodiac,Garmin,477,477
+479,GamePop 4,Netflix,478,478
+480,Amiga,Kodi,479,479
+481,GamePop,Acer,480,480
+482,MSX,Microsoft,481,481
+483,Xbox Series X,Sony Ericsson,482,482
+484,Intellivision,Vizio,483,483
+485,GamePop 16,Epic Games,484,484
+486,WonderSwan,Qualcomm,485,485
+487,GamePop 19,Acer,486,486
+488,Commodore 64,BitTorrent,487,487
+489,Sega Game Gear,SanDisk,488,488
+490,Dreamcast,Kaspersky,489,489
+491,PC,Hulu,490,490
+492,GamePop 2,PlayStation Vue,491,491
+493,Sega Saturn,OnePlus,492,492
+494,Gizmondo,Fitbit,493,493
+495,Game Boy Color,Vizio,494,494
+496,PC,Panda,495,495
+497,Game Boy Advance,Canon,496,496
+498,Odyssey,AMD,497,497
+499,GamePop 6,Disney+,498,498
+500,Nintendo Switch,Xiaomi,499,499
+501,Steam Machine,Amazon,500,500
+502,GamePop 10,DirecTV Now,501,501
+503,Amazon Luna,Fitbit,502,502
+504,GamePop 20,Google,503,503
+505,Neo Geo,Seagate,504,504
+506,PlayStation,Sony,505,505
+507,Jaguar,Trend Micro,506,506
+508,GamePop 5,Canon,507,507
+509,Xbox,Avira,508,508
+510,Amazon Luna,Spotify,509,509
+511,Nintendo DS,Spotify,510,510
+512,TurboGrafx-16,SanDisk,511,511
+513,PlayStation 5,Sony,512,512
+514,MiSTer,PlayStation Vue,513,513
+515,Xbox One,HP,514,514
+516,Super Nintendo Entertainment System,Philips,515,515
+517,GamePop,Kaspersky,516,516
+518,PlayStation 2,Trend Micro,517,517
+519,Wii U,Deluge,518,518
+520,GamePop 6,HP,519,519
+521,RetroN 5,Corsair,520,520
+522,Sega Game Gear,Malwarebytes,521,521
+523,N-Gage,Spotify,522,522
+524,Philips CD-i,Norton,523,523
+525,Dreamcast,Vizio,524,524
+526,MiSTer,Asus,525,525
+527,Magnavox Odyssey 2,qBittorrent,526,526
+528,Amazon Luna,Amazon Prime Video,527,527
+529,GamePop 7,PlayStation Vue,528,528
+530,GamePop 5,Autodesk,529,529
+531,WonderSwan,Pandora,530,530
+532,Xbox,FuboTV,531,531
+533,Apple Arcade,Amazon Music,532,532
+534,Xbox,Webroot,533,533
+535,GamePop 9,Corel,534,534
+536,GamePop 19,Canon,535,535
+537,GamePop 8,Razer,536,536
+538,Retronauts,Seagate,537,537
+539,Raspberry Pi,Twitch,538,538
+540,GamePop 18,Acer,539,539
+541,Evercade,ESPN+,540,540
+542,Retronauts,Corsair,541,541
+543,GamePop,Webroot,542,542
+544,RetroN 5,Nintendo,543,543
+545,Game Boy Advance,McAfee,544,544
+546,GamePop 20,AMD,545,545
+547,OUYA,Lenovo,546,546
+548,Neo Geo,F-Secure,547,547
+549,Odyssey,Kodi,548,548
+550,GamePop 6,SoundCloud,549,549
+551,GamePop 2,BitTorrent,550,550
+552,OUYA,Fitbit,551,551
+553,GamePop 3,Apple,552,552
+554,Intellivision,Vizio,553,553
+555,Wii U,Sony Ericsson,554,554
+556,GamePop X,Nokia,555,555
+557,Raspberry Pi,Steam,556,556
+558,GamePop 3,Spotify,557,557
+559,TurboGrafx-16,OnePlus,558,558
+560,Game Boy Advance,SanDisk,559,559
+561,GameStick,SanDisk,560,560
+562,Ouya,Samsung,561,561
+563,Sega Master System,G Data,562,562
+564,PlayStation 5,AMD,563,563
+565,Tapwave Zodiac,Kodi,564,564
+566,Nintendo Switch,F-Secure,565,565
+567,Google Stadia,Kingston,566,566
+568,PlayStation,Vizio,567,567
+569,Magnavox Odyssey 2,HBO Max,568,568
+570,ColecoVision,Transmission,569,569
+571,3DO Interactive Multiplayer,Western Digital,570,570
+572,OUYA,Adobe,571,571
+573,GamePop 7,Deezer,572,572
+574,ColecoVision,Amazon Music,573,573
+575,GamePop,G Data,574,574
+576,GamePop 8,HBO Max,575,575
+577,GamePop 16,BlackBerry,576,576
+578,PlayStation 5,Vizio,577,577
+579,Wii U,Bitdefender,578,578
+580,TurboGrafx-16,SoundCloud,579,579
+581,Amiga,Apple,580,580
+582,GameStick,AMD,581,581
+583,GamePop 17,McAfee,582,582
+584,GamePop 20,Deluge,583,583
+585,WonderSwan,SanDisk,584,584
+586,PlayStation 2,PlayStation Vue,585,585
+587,Sega Genesis,Avast,586,586
+588,GameStick,Sony,587,587
+589,GamePop 12,Acer,588,588
+590,Super Nintendo Entertainment System,VLC,589,589
+591,Sega Master System,Sharp,590,590
+592,Dreamcast,DirecTV Now,591,591
+593,Sega Genesis,Apple TV+,592,592
+594,PC,G Data,593,593
+595,GamePop 9,Motorola,594,594
+596,GamePop,BlackBerry,595,595
+597,Nintendo 3DS,G Data,596,596
+598,MiSTer,Deluge,597,597
+599,ColecoVision,PlayStation Vue,598,598
+600,PlayStation Vita,F-Secure,599,599
+601,GamePop 16,Samsung,600,600
+602,3DO Interactive Multiplayer,Epic Games,601,601
+603,GamePop 9,iHeartRadio,602,602
+604,Super Nintendo Entertainment System,FuboTV,603,603
+605,GamePop Micro,PlayStation Vue,604,604
+606,GameStick,Samsung,605,605
+607,Nintendo 64,Sony Ericsson,606,606
+608,PlayStation,Malwarebytes,607,607
+609,Intellivision,Pandora,608,608
+610,GamePop S,Western Digital,609,609
+611,MiSTer,AMD,610,610
+612,Game Boy,Hulu,611,611
+613,3DO Interactive Multiplayer,Twitch,612,612
+614,PlayStation 4,Amazon,613,613
+615,MSX,Panasonic,614,614
+616,Nintendo 64,YouTube TV,615,615
+617,GamePop 7,Xiaomi,616,616
+618,Sega Master System,PlayStation Vue,617,617
+619,PlayStation 4,Panasonic,618,618
+620,PlayStation 2,AMD,619,619
+621,Amiga,Apple TV+,620,620
+622,Nintendo 64,Epic Games,621,621
+623,Gizmondo,Philips,622,622
+624,Sega Game Gear,Microsoft,623,623
+625,GamePop 20,HP,624,624
+626,Fairchild Channel F,Apple Music,625,625
+627,Apple Arcade,PlayStation Vue,626,626
+628,Virtual Boy,Transmission,627,627
+629,Nintendo DS,Toshiba,628,628
+630,GamePop S,Corel,629,629
+631,Xbox Series X,Huawei,630,630
+632,TurboGrafx-16,Amazon Music,631,631
+633,Google Stadia,Asus,632,632
+634,Atari 2600,HBO Max,633,633
+635,GamePop,BlackBerry,634,634
+636,GameStick,Toshiba,635,635
+637,3DO Interactive Multiplayer,Amazon,636,636
+638,GamePop 5,Epic Games,637,637
+639,Sega Game Gear,Xiaomi,638,638
+640,GamePop 16,SiriusXM,639,639
+641,Sega Game Gear,Avira,640,640
+642,OUYA,Pandora,641,641
+643,Apple Arcade,Google Play Music,642,642
+644,ZX Spectrum,Twitch,643,643
+645,OUYA,Deezer,644,644
+646,GamePop 18,Norton,645,645
+647,Ouya,Trend Micro,646,646
+648,GamePop 4,Amazon Music,647,647
+649,GamePop S,Hulu Live TV,648,648
+650,GamePop 10,Avast,649,649
+651,GamePop 20,G Data,650,650
+652,GamePop 3,Panasonic,651,651
+653,GamePop 9,BlackBerry,652,652
+654,Tapwave Zodiac,ESPN+,653,653
+655,GamePop 14,F-Secure,654,654
+656,Analogue Pocket,Shazam,655,655
+657,GamePop 12,Webroot,656,656
+658,Nintendo Switch,Webroot,657,657
+659,Playdate,G Data,658,658
+660,Google Stadia,Amazon Prime Video,659,659
+661,Wii U,Amazon,660,660
+662,PlayStation 2,Intel,661,661
+663,GamePop 9,Amazon Music,662,662
+664,RetroN 5,Vizio,663,663
+665,Ouya,Disney+,664,664
+666,GamePop,Apple,665,665
+667,TurboGrafx-16,uTorrent,666,666
+668,GamePop 18,Webroot,667,667
+669,Philips CD-i,Netflix,668,668
+670,ColecoVision,ESPN+,669,669
+671,GamePop 19,Norton,670,670
+672,Neo Geo,McAfee,671,671
+673,Game Boy Color,GoPro,672,672
+674,Atari 2600,Asus,673,673
+675,GamePop 8,Nintendo,674,674
+676,PlayStation 2,F-Secure,675,675
+677,Atari 7800,Kaspersky,676,676
+678,Raspberry Pi,Garmin,677,677
+679,GamePop 11,Twitch,678,678
+680,Sega Saturn,LG,679,679
+681,GamePop 19,Popcorn Time,680,680
+682,Playdate,Intel,681,681
+683,GamePop 18,Sony Ericsson,682,682
+684,Odyssey,Lenovo,683,683
+685,Amiga,Epic Games,684,684
+686,Atari 7800,HBO Max,685,685
+687,Nintendo 3DS,Google Play Music,686,686
+688,Odyssey,Nokia,687,687
+689,Xbox One,Philips,688,688
+690,Commodore 64,F-Secure,689,689
+691,GamePop 2,Motorola,690,690
+692,Sega Saturn,Panda,691,691
+693,GameCube,Autodesk,692,692
+694,PlayStation 5,Spotify,693,693
+695,Retronauts,Qualcomm,694,694
+696,PlayStation,Corel,695,695
+697,GamePop X,Amazon Prime Video,696,696
+698,GamePop,Logitech,697,697
+699,Apple Arcade,Qualcomm,698,698
+700,GamePop 18,Garmin,699,699
+701,GamePop 11,Avast,700,700
+702,ZX Spectrum,Pandora,701,701
+703,RetroN 5,HTC,702,702
+704,Virtual Boy,Philips,703,703
+705,Playdate,Vuze,704,704
+706,GamePop 4,Hulu,705,705
+707,Nintendo DS,Dell,706,706
+708,GamePop 4,Sharp,707,707
+709,Sega Saturn,AMD,708,708
+710,Dreamcast,Acer,709,709
+711,GamePop 10,Origin,710,710
+712,GamePop 13,Sony,711,711
+713,3DO Interactive Multiplayer,Tidal,712,712
+714,GamePop 12,AMD,713,713
+715,GamePop 10,Tidal,714,714
+716,GameStick,Tidal,715,715
+717,GamePop 18,ESPN+,716,716
+718,Sega Master System,Adobe,717,717
+719,Tapwave Zodiac,Steam,718,718
+720,GamePop 13,SanDisk,719,719
+721,GamePop S,Nintendo,720,720
+722,Analogue Pocket,Intel,721,721
+723,ZX Spectrum,Epic Games,722,722
+724,GamePop Micro,Motorola,723,723
+725,GamePop 12,DirecTV Now,724,724
+726,GamePop 2,FuboTV,725,725
+727,GamePop 9,Hulu,726,726
+728,Nintendo DS,OnePlus,727,727
+729,GameStick,Panda,728,728
+730,Sega Saturn,Popcorn Time,729,729
+731,Game Boy Color,IBM,730,730
+732,Virtual Boy,Uplay,731,731
+733,GamePop 8,Spotify,732,732
+734,GameStick,Huawei,733,733
+735,Evercade,Amazon Music,734,734
+736,GamePop 17,Netflix,735,735
+737,Magnavox Odyssey 2,YouTube TV,736,736
+738,Analogue Pocket,SanDisk,737,737
+739,Sega Saturn,Corel,738,738
+740,GamePop 14,Webroot,739,739
+741,GamePop,YouTube TV,740,740
+742,GamePop 6,Plex,741,741
+743,GamePop,Corsair,742,742
+744,PlayStation Vita,DirecTV Now,743,743
+745,Philips CD-i,LG,744,744
+746,Amazon Luna,Deezer,745,745
+747,GamePop 20,Hulu Live TV,746,746
+748,GamePop 4,Kodi,747,747
+749,GamePop 3,Apple,748,748
+750,MSX,uTorrent,749,749
+751,GamePop 7,Canon,750,750
+752,Sega Master System,Apple Music,751,751
+753,Intellivision,LG,752,752
+754,Ouya,Google,753,753
+755,GamePop,Kaspersky,754,754
+756,GamePop 6,Tidal,755,755
+757,Vectrex,Nintendo,756,756
+758,Nintendo Switch,DirecTV Now,757,757
+759,Ouya,Philips,758,758
+760,Evercade,Lenovo,759,759
+761,GamePop X,Nvidia,760,760
+762,Steam Machine,Logitech,761,761
+763,TurboGrafx-16,VLC,762,762
+764,Magnavox Odyssey 2,Twitch,763,763
+765,GamePop 6,DirecTV Now,764,764
+766,Amazon Luna,Spotify,765,765
+767,GamePop 14,Microsoft,766,766
+768,Intellivision,Uplay,767,767
+769,Magnavox Odyssey 2,HTC,768,768
+770,Polymega,F-Secure,769,769
+771,Odyssey,Amazon Prime Video,770,770
+772,GamePop 19,HTC,771,771
+773,Super Nintendo Entertainment System,Hulu Live TV,772,772
+774,Nintendo DS,Microsoft,773,773
+775,Nintendo 3DS,Apple Music,774,774
+776,Tapwave Zodiac,Motorola,775,775
+777,ColecoVision,Microsoft,776,776
+778,Google Stadia,Avast,777,777
+779,Nintendo DS,SiriusXM,778,778
+780,Ouya,Asus,779,779
+781,GamePop,Sony Ericsson,780,780
+782,Evercade,Xiaomi,781,781
+783,Sega Genesis,Amazon,782,782
+784,Retronauts,FuboTV,783,783
+785,Raspberry Pi,LG,784,784
+786,OUYA,Popcorn Time,785,785
+787,GamePop S,Amazon Prime Video,786,786
+788,Nintendo DS,Apple Music,787,787
+789,Atari 7800,Autodesk,788,788
+790,Commodore 64,Philips,789,789
+791,PlayStation Vita,VLC,790,790
+792,GamePop S,Avast,791,791
+793,Intellivision,Tidal,792,792
+794,Fairchild Channel F,Western Digital,793,793
+795,GamePop 8,Nintendo,794,794
+796,GamePop 4,Bitdefender,795,795
+797,GamePop 8,Symantec,796,796
+798,PlayStation 2,Nokia,797,797
+799,PlayStation 5,iHeartRadio,798,798
+800,Sega Master System,Corel,799,799
+801,PlayStation 4,Trend Micro,800,800
+802,Steam Machine,Panasonic,801,801
+803,Nvidia Shield,SiriusXM,802,802
+804,Nintendo 64,Qualcomm,803,803
+805,3DO Interactive Multiplayer,Vuze,804,804
+806,GamePop,Symantec,805,805
+807,PlayStation 2,Xiaomi,806,806
+808,Analogue Pocket,LG,807,807
+809,Evercade,SiriusXM,808,808
+810,Nintendo 64,SiriusXM,809,809
+811,Evercade,Apple,810,810
+812,GamePop 8,OnePlus,811,811
+813,Nvidia Shield,Sony Ericsson,812,812
+814,Vectrex,Adobe,813,813
+815,Game Boy Color,Vizio,814,814
+816,Sega Saturn,Deezer,815,815
+817,GamePop 6,SoundCloud,816,816
+818,GamePop 7,Apple TV+,817,817
+819,GamePop 5,ESPN+,818,818
+820,Xbox One,Amazon,819,819
+821,Raspberry Pi,Pandora,820,820
+822,TurboGrafx-16,GoPro,821,821
+823,GamePop 17,Hulu Live TV,822,822
+824,Amazon Luna,HTC,823,823
+825,OUYA,Vuze,824,824
+826,PlayStation,Xiaomi,825,825
+827,Ouya,Adobe,826,826
+828,GamePop 11,Fitbit,827,827
+829,GamePop 5,HTC,828,828
+830,GamePop 11,YouTube TV,829,829
+831,Nintendo Switch,Panda,830,830
+832,MiSTer,Hulu Live TV,831,831
+833,ColecoVision,Apple,832,832
+834,Sega Game Gear,GoPro,833,833
+835,Ouya,Logitech,834,834
+836,Polymega,ESET,835,835
+837,GamePop 18,Symantec,836,836
+838,Sega Master System,Garmin,837,837
+839,GamePop Micro,Dell,838,838
+840,GamePop 5,AMD,839,839
+841,GameCube,Sony Ericsson,840,840
+842,Tapwave Zodiac,Hulu,841,841
+843,Sega Saturn,ESPN+,842,842
+844,GamePop 6,McAfee,843,843
+845,Tapwave Zodiac,Panda,844,844
+846,Jaguar,HBO Max,845,845
+847,GamePop 13,Acer,846,846
+848,Nintendo Switch,Intel,847,847
+849,GamePop 8,Norton,848,848
+850,GamePop S,Lenovo,849,849
+851,RetroN 5,Vizio,850,850
+852,GamePop 15,Lenovo,851,851
+853,Sega Saturn,Autodesk,852,852
+854,NES,F-Secure,853,853
+855,GamePop 15,qBittorrent,854,854
+856,GamePop 12,Corsair,855,855
+857,Ouya,Transmission,856,856
+858,Evercade,Seagate,857,857
+859,GamePop 18,Lenovo,858,858
+860,GamePop S,Microsoft,859,859
+861,GamePop 8,Disney+,860,860
+862,GamePop 3,Tidal,861,861
+863,Sega Master System,Samsung,862,862
+864,Tapwave Zodiac,Uplay,863,863
+865,Philips CD-i,Adobe,864,864
+866,GamePop 20,HTC,865,865
+867,Sega Master System,Bitdefender,866,866
+868,Gizmondo,Nvidia,867,867
+869,Nintendo 64,OnePlus,868,868
+870,Nintendo Switch,Corsair,869,869
+871,GamePop 16,Disney+,870,870
+872,NES,Norton,871,871
+873,Retronauts,Amazon Music,872,872
+874,NES,VLC,873,873
+875,GamePop,Vuze,874,874
+876,Commodore 64,Apple TV+,875,875
+877,GamePop 14,Seagate,876,876
+878,PlayStation Vita,Sony,877,877
+879,GamePop 3,Trend Micro,878,878
+880,Xbox One,Hulu Live TV,879,879
+881,Evercade,Origin,880,880
+882,Intellivision,Sling TV,881,881
+883,Analogue Pocket,Corsair,882,882
+884,GamePop 7,Autodesk,883,883
+885,Sega Saturn,Malwarebytes,884,884
+886,PlayStation 5,Canon,885,885
+887,Apple Arcade,Popcorn Time,886,886
+888,Philips CD-i,YouTube TV,887,887
+889,Nvidia Shield,Amazon,888,888
+890,N-Gage,Webroot,889,889
+891,TurboGrafx-16,Sling TV,890,890
+892,GamePop,BitTorrent,891,891
+893,GamePop,Bitdefender,892,892
+894,GameStick,G Data,893,893
+895,Amazon Luna,Epic Games,894,894
+896,Nintendo DS,Apple,895,895
+897,GamePop 9,Autodesk,896,896
+898,Evercade,Motorola,897,897
+899,Steam Machine,Norton,898,898
+900,GamePop 3,Corsair,899,899
+901,GamePop 3,Amazon Prime Video,900,900
+902,MSX,YouTube TV,901,901
+903,GamePop 20,Autodesk,902,902
+904,GamePop,Nintendo,903,903
+905,Retronauts,FrostWire,904,904
+906,GamePop 9,Google Play Music,905,905
+907,Evercade,Malwarebytes,906,906
+908,3DO Interactive Multiplayer,VLC,907,907
+909,GamePop 12,Acer,908,908
+910,OUYA,BitTorrent,909,909
+911,MiSTer,Symantec,910,910
+912,Evercade,Steam,911,911
+913,Jaguar,LG,912,912
+914,GamePop 17,Vuze,913,913
+915,GamePop 15,BlackBerry,914,914
+916,Commodore 64,SoundCloud,915,915
+917,GamePop 12,BlackBerry,916,916
+918,Virtual Boy,Kingston,917,917
+919,Nvidia Shield,Dell,918,918
+920,GameStick,HP,919,919
+921,GamePop Micro,Motorola,920,920
+922,Wii U,SanDisk,921,921
+923,GamePop 19,SiriusXM,922,922
+924,GamePop 2,Huawei,923,923
+925,Game Boy,Transmission,924,924
+926,PlayStation Vita,Sony Ericsson,925,925
+927,Neo Geo,Apple,926,926
+928,TurboGrafx-16,FuboTV,927,927
+929,GamePop 8,Apple TV+,928,928
+930,Xbox Series X,Twitch,929,929
+931,PlayStation 5,Google Play Music,930,930
+932,ColecoVision,HP,931,931
+933,NES,Origin,932,932
+934,GameStick,Panda,933,933
+935,MSX,Dell,934,934
+936,Amazon Luna,Pandora,935,935
+937,Nvidia Shield,Apple TV+,936,936
+938,Xbox One,McAfee,937,937
+939,Sega Game Gear,BlackBerry,938,938
+940,GamePop 4,Hulu Live TV,939,939
+941,GamePop 7,Google,940,940
+942,Nvidia Shield,Kodi,941,941
+943,Ouya,Webroot,942,942
+944,GamePop 5,Panasonic,943,943
+945,Wii U,Google Play Music,944,944
+946,Nintendo 3DS,Western Digital,945,945
+947,Evercade,Razer,946,946
+948,GamePop 17,FrostWire,947,947
+949,Neo Geo,IBM,948,948
+950,Polymega,Transmission,949,949
+951,GamePop Micro,Amazon,950,950
+952,PlayStation 5,Kodi,951,951
+953,Commodore 64,Qualcomm,952,952
+954,Commodore 64,Intel,953,953
+955,Odyssey,Avast,954,954
+956,Commodore 64,BitTorrent,955,955
+957,Sega Saturn,qBittorrent,956,956
+958,Nintendo Switch,iHeartRadio,957,957
+959,MSX,Amazon Music,958,958
+960,Evercade,Kingston,959,959
+961,Sega Master System,YouTube TV,960,960
+962,GamePop 11,Sony,961,961
+963,Neo Geo,Toshiba,962,962
+964,GamePop X,Tidal,963,963
+965,GamePop 12,F-Secure,964,964
+966,GamePop 3,Spotify,965,965
+967,Vectrex,Transmission,966,966
+968,Playdate,Hulu Live TV,967,967
+969,Game Boy,BlackBerry,968,968
+970,GamePop 12,Huawei,969,969
+971,GamePop 18,Hulu Live TV,970,970
+972,Atari 2600,Bitdefender,971,971
+973,Neo Geo,OnePlus,972,972
+974,Neo Geo,Huawei,973,973
+975,Steam Machine,Google Play Music,974,974
+976,PlayStation 5,Xiaomi,975,975
+977,Xbox Series X,GoPro,976,976
+978,GamePop Mini,Garmin,977,977
+979,MSX,Razer,978,978
+980,PlayStation Vita,Apple TV+,979,979
+981,Odyssey,AMD,980,980
+982,Intellivision,IBM,981,981
+983,PlayStation 4,Twitch,982,982
+984,Nintendo DS,SiriusXM,983,983
+985,GamePop 6,ESPN+,984,984
+986,Dreamcast,Pandora,985,985
+987,Apple Arcade,FrostWire,986,986
+988,GamePop 11,Amazon Music,987,987
+989,ColecoVision,HP,988,988
+990,GamePop 16,Lenovo,989,989
+991,Steam Machine,HP,990,990
+992,Gizmondo,BitTorrent,991,991
+993,GamePop,Nvidia,992,992
+994,WonderSwan,PlayStation Vue,993,993
+995,Game Boy Color,Sony Ericsson,994,994
+996,Xbox One,Intel,995,995
+997,Apple Arcade,Webroot,996,996
+998,PlayStation 5,Western Digital,997,997
+999,Sega Saturn,Western Digital,998,998
+1000,MiSTer,ESPN+,999,999
+1001,GamePop X,Logitech,1000,1000
